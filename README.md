@@ -1,1 +1,1 @@
-# event-calendar
+# event-react-calendar
